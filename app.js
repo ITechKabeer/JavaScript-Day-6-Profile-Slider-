@@ -8,43 +8,43 @@ const persons = [
     {
         name : "Saylani Mass IT Traning",
         position : "Web Development Batch 17",
-        img : "assets/img/SMIT.jpg",
+        img : "Assets/img/SMIT.jpg",
         description : "Meet the highly motivated students of <mark>Saylani Mass IT Training (SMIT) Batch 17!</mark> These future developers are currently immersed in a rigorous program focused on <b>MERN Stack Development (MongoDB, Express.js, React, Node.js)</b>. Training at the state-of-the-art <b>Zaitoon Ashraf IT Park</b>, they are mastering the skills needed to build complete, full-stack web applications. This intensive hands-on experience is preparing them to immediately launch successful careers and become impactful innovators in the highly competitive world of technology."
     },
     {
         name : "Kabeer Hussain",
         position : "Designer || Mern Stack Learner",
-        img : "assets/img/kabeer.jpg",
+        img : "Assets/img/kabeer.jpg",
         description : "I am a dedicated <mark>MERN Stack learner</mark>, currently focusing on mastering <b>JavaScript</b>. I have been consistently learning and practicing coding, building a strong foundation in both front-end and back-end development. My goal is to create dynamic and interactive web applications. I enjoy solving problems and applying my knowledge to real-world projects. Continuously improving, I am committed to becoming a skilled <b>full-stack developer</b>."
     },
     {
         name : "Muzammil Ahmed",
         position : "Trader || Mern Stack Learner",
-        img : "assets/img/muzammil.jpg",
+        img : "Assets/img/muzammil.jpg",
         description : "A dedicated trader currently immersed in <strong>web development</strong> training at <b>Saylani</b>. Focused on building strong technical skills and mastering coding. Applying the discipline and analytical focus gained from finance to accelerate his learning in technology. His ultimate goal is to effectively merge his financial insight with his newly acquired technical expertise to create functional and impactful web applications."
     },
     {
         name : "Waleed Farrukh",
         position : "Designer || Mern Stack Learner",
-        img : "assets/img/waleeed.jpg",
+        img : "Assets/img/waleeed.jpg",
         description : "I am <b>Waleed</b>, a creative professional blending design and coding expertise. I currently work as a graphic designer, creating impactful visual content. Simultaneously, I am dedicatedly studying <b>web development</b> at <b>Saylani</b>. My goal is to merge my design skills with robust front-end development capabilities. I am committed to creating beautiful, functional, and user-centered web experiences."
     },
     {
         name : "Meelad Raza",
         position : "Frontened Developer || Mern Stack Learner",
-        img : "assets/img/meelad.jpg",
+        img : "Assets/img/meelad.jpg",
         description : "I’m a passionate <b>Frontend Developer</b> focused on building clean, responsive, and user-friendly web experiences. With a strong eye for detail and a love for modern web technologies, I turn ideas into interactive and visually engaging websites. Always eager to learn and grow, I aim to craft digital solutions that make a real impact."
     },
     {
         name : "Abdul Ghaffar",
         position : "12th Year Student || Mern Stack Learner",
-        img : "assets/img/ghaffar.png",
+        img : "Assets/img/ghaffar.png",
         description : "A highly driven individual fully committed to learning <b>web development</b>. Currently enhancing technical skills through intensive training at <b>Saylani Mass IT Traning</b>. Focused on mastering key <b>programming languages</b> and modern frameworks. Dedicated to building robust and scalable web applications. Committed to applying acquired knowledge to solve real-world digital challenges."
     },
     {
         name : "Ibad Ahmed",
         position : "Frontened Developer || Mern Stack Learner",
-        img : "assets/img/ibad.jpg",
+        img : "Assets/img/ibad.jpg",
         description : "A highly motivated individual dedicated to mastering the art of <b>web development</b>. Currently engaged in intensive training and skill acquisition at <b>SMIT</b>. Actively building a robust foundation in modern coding languages and frameworks. Focused on creating responsive and impactful web solutions. Committed to professional growth and becoming a successful, innovative developer."
     }
 ]

@@ -52,7 +52,7 @@ By building this project, you learn:
 ---
 
 ## 📸 Preview
-[App Preview!](demo.png)
+![App Preview](demo.png)
 
 ---
 
